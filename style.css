@@ -1,0 +1,30 @@
+html{
+	background: #fff;
+	border: 10px outset;
+	border-radius: 5px;
+	padding: 0;
+	margin: 5px 28% 0 28%;
+}
+.judul{
+	background: #ffbb00;
+	padding: 1px;
+	text-align: center;
+	border-radius: 5px;
+}
+body{
+	font-family: 'roboto';
+	color: #000;
+	background-color: #cff9ed;
+}
+.table-content{
+	border: ridge;
+	border-radius: 4px;
+	padding: 5px 10px 10px 78px;
+	margin: 10px 0px;
+}
+.table-content-tambah{
+	border: ridge;
+	border-radius: 4px;
+	padding: 5px 10px 5px 190px;
+	margin: 10px 0px;
+}
